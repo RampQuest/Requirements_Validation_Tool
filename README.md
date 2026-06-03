@@ -2,6 +2,13 @@
 
 First-phase foundation for AI-driven HMI validation input ingestion.
 
+## Use cases
+
+- Convert mixed HMI requirement artifacts into a single normalized data model.
+- Catch missing or malformed requirement fields early in the validation lifecycle.
+- Build a machine-readable baseline for downstream test generation and traceability.
+- Align functional, UX/UI, safety, use-case, and acceptance inputs into one source of truth.
+
 ## Supported requirement input categories
 
 The ingestion flow requires all of the following top-level categories:
